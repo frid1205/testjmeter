@@ -127,7 +127,7 @@ $(document).ready(function() {
         widgets: ['zebra']
     });
 
-    var data = {"OkPercent": 100.0, "KoPercent": 0.0};
+    var data = {"OkPercent": 97.4, "KoPercent": 2.6};
     var dataset = [
         {
             "label" : "KO",
@@ -167,7 +167,7 @@ $(document).ready(function() {
     });
 
     // Creates APDEX table
-    createTable($("#apdexTable"), {"supportsControllersDiscrimination": true, "overall": {"data": [0.9802, 500, 1500, "Total"], "isController": false}, "titles": ["Apdex", "T (Toleration threshold)  ", "F (Frustration threshold)", "Label"], "items": [{"data": [0.947, 500, 1500, "HomePage"], "isController": false}, {"data": [0.9995, 500, 1500, "WinnersList"], "isController": false}, {"data": [0.9985, 500, 1500, "Schedule"], "isController": false}, {"data": [0.9995, 500, 1500, "Game Page"], "isController": false}, {"data": [0.9565, 500, 1500, "Detail Game Page"], "isController": false}]}, function(index, item){
+    createTable($("#apdexTable"), {"supportsControllersDiscrimination": true, "overall": {"data": [0.9644, 500, 1500, "Total"], "isController": false}, "titles": ["Apdex", "T (Toleration threshold)  ", "F (Frustration threshold)", "Label"], "items": [{"data": [0.961, 500, 1500, "HomePage"], "isController": false}, {"data": [0.967, 500, 1500, "WinnersList"], "isController": false}, {"data": [0.9165, 500, 1500, "Schedule"], "isController": false}, {"data": [0.9935, 500, 1500, "Game Page"], "isController": false}, {"data": [0.984, 500, 1500, "Detail Game Page"], "isController": false}]}, function(index, item){
         switch(index){
             case 0:
                 item = item.toFixed(3);
@@ -181,7 +181,7 @@ $(document).ready(function() {
     }, [[0, 0]], 3);
 
     // Create statistics table
-    createTable($("#statisticsTable"), {"supportsControllersDiscrimination": true, "overall": {"data": ["Total", 5000, 0, 0.0, 130.41019999999997, 41, 1343, 229.0, 332.9499999999998, 700.9799999999996, 809.8477486232588, 1070.0429725461613, 156.43348113054745], "isController": false}, "titles": ["Label", "#Samples", "KO", "Error %", "Average", "Min", "Max", "90th pct", "95th pct", "99th pct", "Throughput", "Received", "Sent"], "items": [{"data": ["HomePage", 1000, 0, 0.0, 229.3039999999996, 85, 1343, 553.0, 653.0, 1328.0, 172.38407171177383, 86.19203585588691, 24.073166264437166], "isController": false}, {"data": ["WinnersList", 1000, 0, 0.0, 95.37299999999975, 44, 779, 185.0, 233.8499999999998, 300.98, 183.04960644334614, 68.28608365367015, 37.181951308804685], "isController": false}, {"data": ["Schedule", 1000, 0, 0.0, 98.44600000000007, 44, 1278, 171.0, 206.0, 296.0, 180.50541516245488, 67.33698104693141, 37.1939869133574], "isController": false}, {"data": ["Game Page", 1000, 0, 0.0, 86.52999999999997, 41, 674, 179.89999999999998, 221.0, 262.99, 190.51247856734616, 950.1437773861688, 40.558320632501434], "isController": false}, {"data": ["Detail Game Page", 1000, 0, 0.0, 142.398, 44, 725, 290.6999999999997, 683.0, 695.0, 180.34265103697027, 67.27626239855726, 36.808216862037874], "isController": false}]}, function(index, item){
+    createTable($("#statisticsTable"), {"supportsControllersDiscrimination": true, "overall": {"data": ["Total", 5000, 130, 2.6, 105.6424000000002, 41, 1075, 180.0, 280.0, 644.9899999999998, 823.9947264337508, 1088.0029586560647, 158.86763168465723], "isController": false}, "titles": ["Label", "#Samples", "KO", "Error %", "Average", "Min", "Max", "90th pct", "95th pct", "99th pct", "Throughput", "Received", "Sent"], "items": [{"data": ["HomePage", 1000, 23, 2.3, 179.7550000000001, 85, 1075, 315.9, 415.0, 557.97, 170.7067258449983, 84.72454869409356, 23.83892753499488], "isController": false}, {"data": ["WinnersList", 1000, 26, 2.6, 89.16700000000006, 42, 827, 134.0, 171.89999999999986, 661.99, 182.2489520685256, 67.99202945598688, 36.9344231251139], "isController": false}, {"data": ["Schedule", 1000, 65, 6.5, 116.50699999999992, 41, 929, 192.0, 250.0, 766.96, 182.2821728034998, 67.93037105814801, 37.34310204383886], "isController": false}, {"data": ["Game Page", 1000, 0, 0.0, 60.86399999999999, 41, 700, 93.0, 107.0, 528.99, 185.4255516410161, 924.7737228815131, 39.46576435889116], "isController": false}, {"data": ["Detail Game Page", 1000, 16, 1.6, 81.91900000000007, 44, 789, 125.0, 144.94999999999993, 219.98000000000002, 182.31540565177755, 67.93848279398358, 37.19198666818596], "isController": false}]}, function(index, item){
         switch(index){
             // Errors pct
             case 3:
@@ -209,7 +209,7 @@ $(document).ready(function() {
     }, [[0, 0]], 0, summaryTableHeader);
 
     // Create error table
-    createTable($("#errorsTable"), {"supportsControllersDiscrimination": false, "titles": ["Type of error", "Number of errors", "% in errors", "% in all samples"], "items": []}, function(index, item){
+    createTable($("#errorsTable"), {"supportsControllersDiscrimination": false, "titles": ["Type of error", "Number of errors", "% in errors", "% in all samples"], "items": [{"data": ["502/Bad Gateway", 130, 100.0, 2.6], "isController": false}]}, function(index, item){
         switch(index){
             case 2:
             case 3:
@@ -220,7 +220,7 @@ $(document).ready(function() {
     }, [[1, 1]]);
 
         // Create top5 errors by sampler
-    createTable($("#top5ErrorsBySamplerTable"), {"supportsControllersDiscrimination": false, "overall": {"data": ["Total", 5000, 0, null, null, null, null, null, null, null, null, null, null], "isController": false}, "titles": ["Sample", "#Samples", "#Errors", "Error", "#Errors", "Error", "#Errors", "Error", "#Errors", "Error", "#Errors", "Error", "#Errors"], "items": [{"data": [], "isController": false}, {"data": [], "isController": false}, {"data": [], "isController": false}, {"data": [], "isController": false}, {"data": [], "isController": false}]}, function(index, item){
+    createTable($("#top5ErrorsBySamplerTable"), {"supportsControllersDiscrimination": false, "overall": {"data": ["Total", 5000, 130, "502/Bad Gateway", 130, null, null, null, null, null, null, null, null], "isController": false}, "titles": ["Sample", "#Samples", "#Errors", "Error", "#Errors", "Error", "#Errors", "Error", "#Errors", "Error", "#Errors", "Error", "#Errors"], "items": [{"data": ["HomePage", 1000, 23, "502/Bad Gateway", 23, null, null, null, null, null, null, null, null], "isController": false}, {"data": ["WinnersList", 1000, 26, "502/Bad Gateway", 26, null, null, null, null, null, null, null, null], "isController": false}, {"data": ["Schedule", 1000, 65, "502/Bad Gateway", 65, null, null, null, null, null, null, null, null], "isController": false}, {"data": [], "isController": false}, {"data": ["Detail Game Page", 1000, 16, "502/Bad Gateway", 16, null, null, null, null, null, null, null, null], "isController": false}]}, function(index, item){
         return item;
     }, [[0, 0]], 0);
 
