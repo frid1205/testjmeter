@@ -1,0 +1,501 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1607950512672,438,Home Page,200,OK,Gemezz 1-22,text,true,,512,144,66,66,http://ltc.la.gemezz.mobi/index.php/mobile/home,434,0,325
+1607950512630,480,Home Page,200,OK,Gemezz 1-6,text,true,,512,144,66,66,http://ltc.la.gemezz.mobi/index.php/mobile/home,480,0,383
+1607950512950,160,Home Page,200,OK,Gemezz 1-50,text,true,,512,144,66,66,http://ltc.la.gemezz.mobi/index.php/mobile/home,158,0,48
+1607950512629,481,Home Page,200,OK,Gemezz 1-7,text,true,,512,144,66,66,http://ltc.la.gemezz.mobi/index.php/mobile/home,477,0,358
+1607950512750,360,Home Page,200,OK,Gemezz 1-30,text,true,,512,144,66,66,http://ltc.la.gemezz.mobi/index.php/mobile/home,356,0,246
+1607950512631,481,Home Page,200,OK,Gemezz 1-18,text,true,,512,144,66,66,http://ltc.la.gemezz.mobi/index.php/mobile/home,481,0,382
+1607950512630,480,Home Page,200,OK,Gemezz 1-10,text,true,,512,144,66,66,http://ltc.la.gemezz.mobi/index.php/mobile/home,477,0,367
+1607950512762,348,Home Page,200,OK,Gemezz 1-31,text,true,,512,144,66,66,http://ltc.la.gemezz.mobi/index.php/mobile/home,347,0,235
+1607950512630,480,Home Page,200,OK,Gemezz 1-16,text,true,,512,144,66,66,http://ltc.la.gemezz.mobi/index.php/mobile/home,479,0,367
+1607950512726,384,Home Page,200,OK,Gemezz 1-28,text,true,,512,144,66,66,http://ltc.la.gemezz.mobi/index.php/mobile/home,380,0,271
+1607950512720,390,Home Page,200,OK,Gemezz 1-27,text,true,,512,144,66,66,http://ltc.la.gemezz.mobi/index.php/mobile/home,387,0,277
+1607950512965,145,Home Page,200,OK,Gemezz 1-52,text,true,,512,144,66,66,http://ltc.la.gemezz.mobi/index.php/mobile/home,141,0,32
+1607950512877,233,Home Page,200,OK,Gemezz 1-43,text,true,,512,144,66,66,http://ltc.la.gemezz.mobi/index.php/mobile/home,229,0,110
+1607950512739,371,Home Page,200,OK,Gemezz 1-29,text,true,,512,144,66,66,http://ltc.la.gemezz.mobi/index.php/mobile/home,367,0,256
+1607950512959,151,Home Page,200,OK,Gemezz 1-51,text,true,,512,144,66,66,http://ltc.la.gemezz.mobi/index.php/mobile/home,147,0,38
+1607950512680,430,Home Page,200,OK,Gemezz 1-23,text,true,,512,144,66,66,http://ltc.la.gemezz.mobi/index.php/mobile/home,426,0,318
+1607950512638,474,Home Page,200,OK,Gemezz 1-19,text,true,,512,144,67,67,http://ltc.la.gemezz.mobi/index.php/mobile/home,474,0,366
+1607950512630,525,Home Page,200,OK,Gemezz 1-11,text,true,,512,144,70,70,http://ltc.la.gemezz.mobi/index.php/mobile/home,525,0,383
+1607950512705,453,Home Page,200,OK,Gemezz 1-26,text,true,,512,144,70,70,http://ltc.la.gemezz.mobi/index.php/mobile/home,453,0,308
+1607950512913,245,Home Page,200,OK,Gemezz 1-46,text,true,,512,144,70,70,http://ltc.la.gemezz.mobi/index.php/mobile/home,245,0,101
+1607950512630,529,Home Page,200,OK,Gemezz 1-14,text,true,,512,144,71,71,http://ltc.la.gemezz.mobi/index.php/mobile/home,529,0,383
+1607950512649,511,Home Page,200,OK,Gemezz 1-20,text,true,,512,144,71,71,http://ltc.la.gemezz.mobi/index.php/mobile/home,511,0,365
+1607950512687,497,Home Page,200,OK,Gemezz 1-24,text,true,,512,144,73,73,http://ltc.la.gemezz.mobi/index.php/mobile/home,497,0,326
+1607950512657,528,Home Page,200,OK,Gemezz 1-21,text,true,,512,144,73,73,http://ltc.la.gemezz.mobi/index.php/mobile/home,528,0,357
+1607950512865,321,Home Page,200,OK,Gemezz 1-42,text,true,,512,144,74,74,http://ltc.la.gemezz.mobi/index.php/mobile/home,321,0,148
+1607950512630,556,Home Page,200,OK,Gemezz 1-15,text,true,,512,144,73,73,http://ltc.la.gemezz.mobi/index.php/mobile/home,556,0,383
+1607950512629,557,Home Page,200,OK,Gemezz 1-9,text,true,,512,144,74,74,http://ltc.la.gemezz.mobi/index.php/mobile/home,557,0,384
+1607950512901,286,Home Page,200,OK,Gemezz 1-45,text,true,,512,144,74,74,http://ltc.la.gemezz.mobi/index.php/mobile/home,286,0,112
+1607950512927,262,Home Page,200,OK,Gemezz 1-48,text,true,,512,144,74,74,http://ltc.la.gemezz.mobi/index.php/mobile/home,262,0,87
+1607950512847,342,Home Page,200,OK,Gemezz 1-40,text,true,,512,144,74,74,http://ltc.la.gemezz.mobi/index.php/mobile/home,342,0,168
+1607950512630,559,Home Page,200,OK,Gemezz 1-3,text,true,,512,144,74,74,http://ltc.la.gemezz.mobi/index.php/mobile/home,559,0,384
+1607950512858,332,Home Page,200,OK,Gemezz 1-41,text,true,,512,144,74,74,http://ltc.la.gemezz.mobi/index.php/mobile/home,332,0,157
+1607950512630,563,Home Page,200,OK,Gemezz 1-17,text,true,,512,144,74,74,http://ltc.la.gemezz.mobi/index.php/mobile/home,563,0,385
+1607950512629,565,Home Page,200,OK,Gemezz 1-5,text,true,,512,144,74,74,http://ltc.la.gemezz.mobi/index.php/mobile/home,565,0,385
+1607950512976,218,Home Page,200,OK,Gemezz 1-53,text,true,,512,144,74,74,http://ltc.la.gemezz.mobi/index.php/mobile/home,218,0,38
+1607950512921,273,Home Page,200,OK,Gemezz 1-47,text,true,,512,144,74,74,http://ltc.la.gemezz.mobi/index.php/mobile/home,273,0,93
+1607950512631,564,Home Page,200,OK,Gemezz 1-13,text,true,,512,144,75,75,http://ltc.la.gemezz.mobi/index.php/mobile/home,564,0,384
+1607950512631,565,Home Page,200,OK,Gemezz 1-2,text,true,,512,144,75,75,http://ltc.la.gemezz.mobi/index.php/mobile/home,565,0,383
+1607950512837,365,Home Page,200,OK,Gemezz 1-39,text,true,,512,144,75,75,http://ltc.la.gemezz.mobi/index.php/mobile/home,365,0,177
+1607950512629,592,Home Page,200,OK,Gemezz 1-4,text,true,,512,144,77,77,http://ltc.la.gemezz.mobi/index.php/mobile/home,592,0,408
+1607950512780,441,Home Page,200,OK,Gemezz 1-33,text,true,,512,144,77,77,http://ltc.la.gemezz.mobi/index.php/mobile/home,441,0,258
+1607950512828,393,Home Page,200,OK,Gemezz 1-38,text,true,,512,144,77,77,http://ltc.la.gemezz.mobi/index.php/mobile/home,393,0,209
+1607950512809,412,Home Page,200,OK,Gemezz 1-36,text,true,,512,144,77,77,http://ltc.la.gemezz.mobi/index.php/mobile/home,412,0,228
+1607950512939,327,Home Page,200,OK,Gemezz 1-49,text,true,,512,144,81,81,http://ltc.la.gemezz.mobi/index.php/mobile/home,327,0,99
+1607950512815,451,Home Page,200,OK,Gemezz 1-37,text,true,,512,144,81,81,http://ltc.la.gemezz.mobi/index.php/mobile/home,451,0,222
+1607950512697,569,Home Page,200,OK,Gemezz 1-25,text,true,,512,144,81,81,http://ltc.la.gemezz.mobi/index.php/mobile/home,569,0,341
+1607950512889,406,Home Page,200,OK,Gemezz 1-44,text,true,,512,144,84,84,http://ltc.la.gemezz.mobi/index.php/mobile/home,406,0,156
+1607950512987,308,Home Page,200,OK,Gemezz 1-54,text,true,,512,144,84,84,http://ltc.la.gemezz.mobi/index.php/mobile/home,308,0,59
+1607950512800,495,Home Page,200,OK,Gemezz 1-35,text,true,,512,144,84,84,http://ltc.la.gemezz.mobi/index.php/mobile/home,495,0,245
+1607950512788,508,Home Page,200,OK,Gemezz 1-34,text,true,,512,144,84,84,http://ltc.la.gemezz.mobi/index.php/mobile/home,508,0,251
+1607950512630,668,Home Page,200,OK,Gemezz 1-12,text,true,,512,144,84,84,http://ltc.la.gemezz.mobi/index.php/mobile/home,668,0,415
+1607950512630,669,Home Page,200,OK,Gemezz 1-8,text,true,,512,144,84,84,http://ltc.la.gemezz.mobi/index.php/mobile/home,669,0,416
+1607950512770,529,Home Page,200,OK,Gemezz 1-32,text,true,,512,144,84,84,http://ltc.la.gemezz.mobi/index.php/mobile/home,529,0,275
+1607950512631,668,Home Page,200,OK,Gemezz 1-1,text,true,,512,144,84,84,http://ltc.la.gemezz.mobi/index.php/mobile/home,668,0,414
+1607950513009,291,Home Page,200,OK,Gemezz 1-56,text,true,,512,144,85,85,http://ltc.la.gemezz.mobi/index.php/mobile/home,291,0,55
+1607950512998,304,Home Page,200,OK,Gemezz 1-55,text,true,,512,144,85,85,http://ltc.la.gemezz.mobi/index.php/mobile/home,304,0,66
+1607950513029,280,Home Page,200,OK,Gemezz 1-58,text,true,,512,144,86,86,http://ltc.la.gemezz.mobi/index.php/mobile/home,280,0,40
+1607950513017,292,Home Page,200,OK,Gemezz 1-57,text,true,,512,144,86,86,http://ltc.la.gemezz.mobi/index.php/mobile/home,292,0,51
+1607950513058,343,Home Page,200,OK,Gemezz 1-61,text,true,,512,144,95,95,http://ltc.la.gemezz.mobi/index.php/mobile/home,343,0,34
+1607950513038,364,Home Page,200,OK,Gemezz 1-59,text,true,,512,144,95,95,http://ltc.la.gemezz.mobi/index.php/mobile/home,364,0,50
+1607950513046,357,Home Page,200,OK,Gemezz 1-60,text,true,,512,144,95,95,http://ltc.la.gemezz.mobi/index.php/mobile/home,357,0,45
+1607950513067,337,Home Page,200,OK,Gemezz 1-62,text,true,,512,144,95,95,http://ltc.la.gemezz.mobi/index.php/mobile/home,337,0,30
+1607950513119,286,Schedule,200,OK,Gemezz 1-30,text,true,,382,212,95,95,http://ltc.la.gemezz.mobi/index.php/mobile/competitionschedule,286,0,0
+1607950513118,287,Schedule,200,OK,Gemezz 1-31,text,true,,382,212,95,95,http://ltc.la.gemezz.mobi/index.php/mobile/competitionschedule,287,0,0
+1607950513119,287,Schedule,200,OK,Gemezz 1-7,text,true,,382,212,95,95,http://ltc.la.gemezz.mobi/index.php/mobile/competitionschedule,287,0,0
+1607950513119,287,Schedule,200,OK,Gemezz 1-43,text,true,,382,212,95,95,http://ltc.la.gemezz.mobi/index.php/mobile/competitionschedule,287,0,0
+1607950513119,288,Schedule,200,OK,Gemezz 1-19,text,true,,382,212,95,95,http://ltc.la.gemezz.mobi/index.php/mobile/competitionschedule,288,0,0
+1607950513118,289,Schedule,200,OK,Gemezz 1-23,text,true,,382,212,95,95,http://ltc.la.gemezz.mobi/index.php/mobile/competitionschedule,289,0,0
+1607950513088,319,Home Page,200,OK,Gemezz 1-64,text,true,,512,144,95,95,http://ltc.la.gemezz.mobi/index.php/mobile/home,319,0,29
+1607950513118,289,Schedule,200,OK,Gemezz 1-18,text,true,,382,212,95,95,http://ltc.la.gemezz.mobi/index.php/mobile/competitionschedule,289,0,0
+1607950513119,290,Schedule,200,OK,Gemezz 1-29,text,true,,382,212,95,95,http://ltc.la.gemezz.mobi/index.php/mobile/competitionschedule,290,0,0
+1607950513119,290,Schedule,200,OK,Gemezz 1-51,text,true,,382,212,95,95,http://ltc.la.gemezz.mobi/index.php/mobile/competitionschedule,290,0,0
+1607950513120,289,Schedule,200,OK,Gemezz 1-27,text,true,,382,212,95,95,http://ltc.la.gemezz.mobi/index.php/mobile/competitionschedule,289,0,0
+1607950513120,289,Schedule,200,OK,Gemezz 1-6,text,true,,382,212,95,95,http://ltc.la.gemezz.mobi/index.php/mobile/competitionschedule,289,0,0
+1607950513120,290,Schedule,200,OK,Gemezz 1-52,text,true,,382,212,95,95,http://ltc.la.gemezz.mobi/index.php/mobile/competitionschedule,290,0,0
+1607950513120,291,Schedule,200,OK,Gemezz 1-50,text,true,,382,212,95,95,http://ltc.la.gemezz.mobi/index.php/mobile/competitionschedule,291,0,0
+1607950513120,291,Schedule,200,OK,Gemezz 1-22,text,true,,382,212,95,95,http://ltc.la.gemezz.mobi/index.php/mobile/competitionschedule,291,0,0
+1607950513120,291,Schedule,200,OK,Gemezz 1-28,text,true,,382,212,95,95,http://ltc.la.gemezz.mobi/index.php/mobile/competitionschedule,291,0,0
+1607950513118,294,Schedule,200,OK,Gemezz 1-10,text,true,,382,212,95,95,http://ltc.la.gemezz.mobi/index.php/mobile/competitionschedule,294,0,0
+1607950513079,333,Home Page,200,OK,Gemezz 1-63,text,true,,512,144,96,96,http://ltc.la.gemezz.mobi/index.php/mobile/home,333,0,29
+1607950513160,304,Schedule,200,OK,Gemezz 1-46,text,true,,382,212,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/competitionschedule,304,0,0
+1607950513161,303,Schedule,200,OK,Gemezz 1-20,text,true,,382,212,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/competitionschedule,303,0,0
+1607950513118,346,Home Page,200,OK,Gemezz 1-67,text,true,,512,144,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/home,346,0,27
+1607950513121,344,Schedule,200,OK,Gemezz 1-16,text,true,,382,212,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/competitionschedule,344,0,0
+1607950513098,367,Home Page,200,OK,Gemezz 1-65,text,true,,512,144,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/home,367,0,32
+1607950513160,307,Schedule,200,OK,Gemezz 1-14,text,true,,382,212,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/competitionschedule,307,0,0
+1607950513159,308,Schedule,200,OK,Gemezz 1-26,text,true,,382,212,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/competitionschedule,308,0,0
+1607950513105,362,Home Page,200,OK,Gemezz 1-66,text,true,,512,144,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/home,362,0,25
+1607950513137,332,Home Page,200,OK,Gemezz 1-69,text,true,,512,144,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/home,332,0,46
+1607950513185,284,Schedule,200,OK,Gemezz 1-21,text,true,,382,212,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/competitionschedule,284,0,0
+1607950513185,284,Schedule,200,OK,Gemezz 1-24,text,true,,382,212,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/competitionschedule,284,0,0
+1607950513187,283,Schedule,200,OK,Gemezz 1-42,text,true,,382,212,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/competitionschedule,283,0,0
+1607950513187,283,Schedule,200,OK,Gemezz 1-9,text,true,,382,212,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/competitionschedule,283,0,0
+1607950513127,343,Home Page,200,OK,Gemezz 1-68,text,true,,512,144,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/home,343,0,56
+1607950513187,284,Schedule,200,OK,Gemezz 1-15,text,true,,382,212,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/competitionschedule,284,0,0
+1607950513190,281,Schedule,200,OK,Gemezz 1-48,text,true,,382,212,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/competitionschedule,281,0,0
+1607950513187,285,Schedule,200,OK,Gemezz 1-45,text,true,,382,212,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/competitionschedule,285,0,0
+1607950513149,323,Home Page,200,OK,Gemezz 1-70,text,true,,512,144,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/home,323,0,34
+1607950513190,282,Schedule,200,OK,Gemezz 1-3,text,true,,382,212,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/competitionschedule,282,0,0
+1607950513194,278,Schedule,200,OK,Gemezz 1-5,text,true,,382,212,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/competitionschedule,278,0,0
+1607950513190,282,Schedule,200,OK,Gemezz 1-40,text,true,,382,212,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/competitionschedule,282,0,0
+1607950513160,312,Home Page,200,OK,Gemezz 1-71,text,true,,512,144,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/home,312,0,23
+1607950513190,284,Schedule,200,OK,Gemezz 1-41,text,true,,382,212,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/competitionschedule,284,0,0
+1607950513194,280,Schedule,200,OK,Gemezz 1-53,text,true,,382,212,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/competitionschedule,280,0,0
+1607950513222,252,Schedule,200,OK,Gemezz 1-38,text,true,,382,212,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/competitionschedule,252,0,0
+1607950513194,280,Schedule,200,OK,Gemezz 1-17,text,true,,382,212,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/competitionschedule,280,0,0
+1607950513196,279,Schedule,200,OK,Gemezz 1-2,text,true,,382,212,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/competitionschedule,279,0,0
+1607950513222,253,Schedule,200,OK,Gemezz 1-33,text,true,,382,212,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/competitionschedule,253,0,0
+1607950513222,253,Schedule,200,OK,Gemezz 1-36,text,true,,382,212,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/competitionschedule,253,0,0
+1607950513196,279,Schedule,200,OK,Gemezz 1-13,text,true,,382,212,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/competitionschedule,279,0,0
+1607950513267,209,Schedule,200,OK,Gemezz 1-49,text,true,,382,212,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/competitionschedule,209,0,0
+1607950513202,273,Schedule,200,OK,Gemezz 1-39,text,true,,382,212,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/competitionschedule,273,0,0
+1607950513171,305,Home Page,200,OK,Gemezz 1-72,text,true,,512,144,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/home,305,0,24
+1607950513188,289,Home Page,200,OK,Gemezz 1-74,text,true,,512,144,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/home,289,0,39
+1607950513179,298,Home Page,200,OK,Gemezz 1-73,text,true,,512,144,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/home,298,0,32
+1607950513267,210,Schedule,200,OK,Gemezz 1-37,text,true,,382,212,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/competitionschedule,210,0,0
+1607950513267,210,Schedule,200,OK,Gemezz 1-25,text,true,,382,212,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/competitionschedule,210,0,0
+1607950513196,282,Home Page,200,OK,Gemezz 1-75,text,true,,512,144,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/home,282,0,68
+1607950513237,241,Home Page,200,OK,Gemezz 1-79,text,true,,512,144,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/home,241,0,27
+1607950513220,258,Home Page,200,OK,Gemezz 1-77,text,true,,512,144,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/home,258,0,44
+1607950513224,254,Home Page,200,OK,Gemezz 1-78,text,true,,512,144,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/home,254,0,40
+1607950513222,251,Schedule,200,OK,Gemezz 1-4,text,true,,382,212,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/competitionschedule,251,0,0
+1607950513194,279,Schedule,200,OK,Gemezz 1-47,text,true,,382,212,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/competitionschedule,279,0,0
+1607950513287,195,Home Page,200,OK,Gemezz 1-84,text,true,,512,144,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/home,195,0,118
+1607950513269,213,Home Page,200,OK,Gemezz 1-82,text,true,,512,144,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/home,213,0,136
+1607950513276,206,Home Page,200,OK,Gemezz 1-83,text,true,,512,144,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/home,206,0,128
+1607950513408,74,Schedule,200,OK,Gemezz 1-64,text,true,,382,212,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/competitionschedule,74,0,0
+1607950513406,76,Winners List,200,OK,Gemezz 1-31,text,true,,382,209,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/winnersprizelist,76,0,0
+1607950513408,74,Winners List,200,OK,Gemezz 1-19,text,true,,382,209,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/winnersprizelist,74,0,0
+1607950513406,76,Winners List,200,OK,Gemezz 1-43,text,true,,382,209,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/winnersprizelist,76,0,0
+1607950513403,78,Schedule,200,OK,Gemezz 1-61,text,true,,382,212,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/competitionschedule,78,0,0
+1607950513406,75,Winners List,200,OK,Gemezz 1-7,text,true,,382,209,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/winnersprizelist,75,0,0
+1607950513408,73,Winners List,200,OK,Gemezz 1-23,text,true,,382,209,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/winnersprizelist,73,0,0
+1607950513405,76,Schedule,200,OK,Gemezz 1-62,text,true,,382,212,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/competitionschedule,76,0,0
+1607950513406,75,Winners List,200,OK,Gemezz 1-30,text,true,,382,209,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/winnersprizelist,75,0,0
+1607950513408,73,Winners List,200,OK,Gemezz 1-18,text,true,,382,209,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/winnersprizelist,73,0,0
+1607950513404,77,Schedule,200,OK,Gemezz 1-59,text,true,,382,212,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/competitionschedule,77,0,0
+1607950513404,77,Schedule,200,OK,Gemezz 1-60,text,true,,382,212,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/competitionschedule,77,0,0
+1607950513300,181,Schedule,200,OK,Gemezz 1-1,text,true,,382,212,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/competitionschedule,181,0,0
+1607950513309,172,Schedule,200,OK,Gemezz 1-58,text,true,,382,212,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/competitionschedule,172,0,0
+1607950513302,179,Schedule,200,OK,Gemezz 1-55,text,true,,382,212,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/competitionschedule,179,0,0
+1607950513300,181,Schedule,200,OK,Gemezz 1-32,text,true,,382,212,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/competitionschedule,181,0,0
+1607950513299,181,Schedule,200,OK,Gemezz 1-8,text,true,,382,212,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/competitionschedule,181,0,0
+1607950513301,179,Schedule,200,OK,Gemezz 1-56,text,true,,382,212,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/competitionschedule,179,0,0
+1607950513299,181,Schedule,200,OK,Gemezz 1-12,text,true,,382,212,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/competitionschedule,181,0,0
+1607950513297,183,Schedule,200,OK,Gemezz 1-34,text,true,,382,212,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/competitionschedule,183,0,0
+1607950513297,192,Schedule,200,OK,Gemezz 1-44,text,true,,382,212,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/competitionschedule,192,0,0
+1607950513310,179,Schedule,200,OK,Gemezz 1-57,text,true,,382,212,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/competitionschedule,179,0,0
+1607950513297,183,Schedule,200,OK,Gemezz 1-54,text,true,,382,212,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/competitionschedule,183,0,0
+1607950513257,223,Home Page,200,OK,Gemezz 1-81,text,true,,512,144,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/home,223,0,24
+1607950513244,235,Home Page,200,OK,Gemezz 1-80,text,true,,512,144,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/home,235,0,27
+1607950513297,182,Schedule,200,OK,Gemezz 1-35,text,true,,382,212,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/competitionschedule,182,0,0
+1607950513157,322,Schedule,200,OK,Gemezz 1-11,text,true,,382,212,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/competitionschedule,322,0,0
+1607950513205,274,Home Page,200,OK,Gemezz 1-76,text,true,,512,144,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/home,274,0,59
+1607950513410,109,Winners List,200,OK,Gemezz 1-27,text,true,,382,209,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/winnersprizelist,109,0,0
+1607950513411,108,Winners List,200,OK,Gemezz 1-6,text,true,,382,209,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/winnersprizelist,108,0,0
+1607950513409,110,Winners List,200,OK,Gemezz 1-29,text,true,,382,209,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/winnersprizelist,110,0,0
+1607950513411,110,Winners List,200,OK,Gemezz 1-52,text,true,,382,209,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/winnersprizelist,110,0,0
+1607950513411,110,Winners List,200,OK,Gemezz 1-50,text,true,,382,209,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/winnersprizelist,110,0,0
+1607950513413,108,Schedule,200,OK,Gemezz 1-63,text,true,,382,212,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/competitionschedule,108,0,0
+1607950513412,109,Winners List,200,OK,Gemezz 1-28,text,true,,382,209,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/winnersprizelist,109,0,0
+1607950513412,110,Winners List,200,OK,Gemezz 1-10,text,true,,382,209,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/winnersprizelist,110,0,0
+1607950513411,111,Winners List,200,OK,Gemezz 1-22,text,true,,382,209,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/winnersprizelist,111,0,0
+1607950513410,112,Winners List,200,OK,Gemezz 1-51,text,true,,382,209,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/winnersprizelist,112,0,0
+1607950513466,163,Schedule,200,OK,Gemezz 1-65,text,true,,382,212,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/competitionschedule,163,0,0
+1607950513465,164,Winners List,200,OK,Gemezz 1-46,text,true,,382,209,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/winnersprizelist,164,0,0
+1607950513466,164,Schedule,200,OK,Gemezz 1-67,text,true,,382,212,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/competitionschedule,164,0,0
+1607950513469,162,Schedule,200,OK,Gemezz 1-69,text,true,,382,212,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/competitionschedule,162,0,0
+1607950513468,163,Schedule,200,OK,Gemezz 1-66,text,true,,382,212,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/competitionschedule,163,0,0
+1607950513469,165,Winners List,200,OK,Gemezz 1-21,text,true,,382,209,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/winnersprizelist,164,0,0
+1607950513467,167,Winners List,200,OK,Gemezz 1-16,text,true,,382,209,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/winnersprizelist,167,0,0
+1607950513469,167,Winners List,200,OK,Gemezz 1-24,text,true,,382,209,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/winnersprizelist,167,0,0
+1607950513468,169,Winners List,200,OK,Gemezz 1-26,text,true,,382,209,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/winnersprizelist,169,0,0
+1607950513470,167,Winners List,200,OK,Gemezz 1-42,text,true,,382,209,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/winnersprizelist,167,0,0
+1607950513302,335,Home Page,200,OK,Gemezz 1-85,text,true,,512,144,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/home,335,0,164
+1607950513472,166,Schedule,200,OK,Gemezz 1-70,text,true,,382,212,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/competitionschedule,166,0,0
+1607950513473,165,Winners List,200,OK,Gemezz 1-40,text,true,,382,209,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/winnersprizelist,165,0,0
+1607950513474,165,Winners List,200,OK,Gemezz 1-41,text,true,,382,209,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/winnersprizelist,165,0,0
+1607950513471,168,Schedule,200,OK,Gemezz 1-68,text,true,,382,212,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/competitionschedule,168,0,0
+1607950513472,168,Winners List,200,OK,Gemezz 1-45,text,true,,382,209,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/winnersprizelist,168,0,0
+1607950513471,169,Winners List,200,OK,Gemezz 1-9,text,true,,382,209,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/winnersprizelist,169,0,0
+1607950513474,167,Winners List,200,OK,Gemezz 1-38,text,true,,382,209,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/winnersprizelist,167,0,0
+1607950513471,170,Winners List,200,OK,Gemezz 1-48,text,true,,382,209,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/winnersprizelist,170,0,0
+1607950513471,170,Winners List,200,OK,Gemezz 1-15,text,true,,382,209,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/winnersprizelist,170,0,0
+1607950513318,323,Home Page,200,OK,Gemezz 1-87,text,true,,512,144,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/home,323,0,152
+1607950513469,173,Winners List,200,OK,Gemezz 1-14,text,true,,382,209,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/winnersprizelist,173,0,0
+1607950513474,168,Winners List,200,OK,Gemezz 1-17,text,true,,382,209,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/winnersprizelist,168,0,0
+1607950513473,169,Winners List,200,OK,Gemezz 1-3,text,true,,382,209,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/winnersprizelist,169,0,0
+1607950513356,286,Home Page,200,OK,Gemezz 1-91,text,true,,512,144,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/home,286,0,114
+1607950513475,168,Winners List,200,OK,Gemezz 1-33,text,true,,382,209,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/winnersprizelist,168,0,0
+1607950513307,336,Home Page,200,OK,Gemezz 1-86,text,true,,512,144,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/home,336,0,163
+1607950513474,169,Winners List,200,OK,Gemezz 1-53,text,true,,382,209,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/winnersprizelist,169,0,0
+1607950513346,297,Home Page,200,OK,Gemezz 1-89,text,true,,512,144,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/home,297,0,124
+1607950513475,169,Winners List,200,OK,Gemezz 1-2,text,true,,382,209,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/winnersprizelist,169,0,0
+1607950513475,169,Winners List,200,OK,Gemezz 1-13,text,true,,382,209,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/winnersprizelist,169,0,0
+1607950513350,294,Home Page,200,OK,Gemezz 1-90,text,true,,512,144,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/home,294,0,120
+1607950513328,316,Home Page,200,OK,Gemezz 1-88,text,true,,512,144,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/home,316,0,142
+1607950513475,169,Winners List,200,OK,Gemezz 1-36,text,true,,382,209,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/winnersprizelist,169,0,0
+1607950513476,169,Schedule,200,OK,Gemezz 1-72,text,true,,382,212,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/competitionschedule,169,0,0
+1607950513476,169,Winners List,200,OK,Gemezz 1-39,text,true,,382,209,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/winnersprizelist,169,0,0
+1607950513474,171,Schedule,200,OK,Gemezz 1-71,text,true,,382,212,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/competitionschedule,171,0,0
+1607950513476,169,Winners List,200,OK,Gemezz 1-49,text,true,,382,209,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/winnersprizelist,169,0,0
+1607950513477,168,Schedule,200,OK,Gemezz 1-73,text,true,,382,212,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/competitionschedule,168,0,0
+1607950513478,167,Schedule,200,OK,Gemezz 1-79,text,true,,382,212,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/competitionschedule,167,0,0
+1607950513477,169,Winners List,200,OK,Gemezz 1-20,text,true,,382,209,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/winnersprizelist,169,0,0
+1607950513477,169,Winners List,200,OK,Gemezz 1-37,text,true,,382,209,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/winnersprizelist,169,0,0
+1607950513478,168,Winners List,200,OK,Gemezz 1-25,text,true,,382,209,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/winnersprizelist,168,0,0
+1607950513371,275,Home Page,200,OK,Gemezz 1-92,text,true,,512,144,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/home,275,0,108
+1607950513478,169,Schedule,200,OK,Gemezz 1-75,text,true,,382,212,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/competitionschedule,169,0,0
+1607950513477,170,Schedule,200,OK,Gemezz 1-74,text,true,,382,212,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/competitionschedule,170,0,0
+1607950513478,169,Schedule,200,OK,Gemezz 1-77,text,true,,382,212,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/competitionschedule,169,0,0
+1607950513381,266,Home Page,200,OK,Gemezz 1-93,text,true,,512,144,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/home,266,0,98
+1607950513388,260,Home Page,200,OK,Gemezz 1-94,text,true,,512,144,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/home,260,0,91
+1607950513483,176,Schedule,200,OK,Gemezz 1-84,text,true,,382,212,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/competitionschedule,176,0,0
+1607950513484,201,Schedule,200,OK,Gemezz 1-78,text,true,,382,212,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/competitionschedule,201,0,0
+1607950513485,200,Schedule,200,OK,Gemezz 1-82,text,true,,382,212,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/competitionschedule,200,0,0
+1607950513484,202,Winners List,200,OK,Gemezz 1-4,text,true,,382,209,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/winnersprizelist,202,0,0
+1607950513401,285,Home Page,200,OK,Gemezz 1-95,text,true,,512,144,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/home,285,0,78
+1607950513486,200,Detail Game Page,200,OK,Gemezz 1-19,text,true,,382,210,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/detail?idgame=242,200,0,0
+1607950513485,204,Schedule,200,OK,Gemezz 1-83,text,true,,382,212,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/competitionschedule,204,0,0
+1607950513486,203,Winners List,200,OK,Gemezz 1-5,text,true,,382,209,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/winnersprizelist,203,0,0
+1607950513483,206,Winners List,200,OK,Gemezz 1-47,text,true,,382,209,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/winnersprizelist,206,0,0
+1607950513487,203,Detail Game Page,200,OK,Gemezz 1-7,text,true,,382,210,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/detail?idgame=242,203,0,0
+1607950513486,206,Winners List,200,OK,Gemezz 1-61,text,true,,382,209,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/winnersprizelist,206,0,0
+1607950513486,205,Detail Game Page,200,OK,Gemezz 1-31,text,true,,382,210,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/detail?idgame=242,205,0,0
+1607950513487,206,Detail Game Page,200,OK,Gemezz 1-23,text,true,,382,210,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/detail?idgame=242,206,0,0
+1607950513485,208,Winners List,200,OK,Gemezz 1-64,text,true,,382,209,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/winnersprizelist,208,0,0
+1607950513487,206,Winners List,200,OK,Gemezz 1-62,text,true,,382,209,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/winnersprizelist,206,0,0
+1607950513486,208,Detail Game Page,200,OK,Gemezz 1-43,text,true,,382,210,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/detail?idgame=242,208,0,0
+1607950513488,206,Winners List,200,OK,Gemezz 1-55,text,true,,382,209,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/winnersprizelist,206,0,0
+1607950513487,207,Detail Game Page,200,OK,Gemezz 1-30,text,true,,382,210,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/detail?idgame=242,207,0,0
+1607950513489,206,Winners List,200,OK,Gemezz 1-56,text,true,,382,209,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/winnersprizelist,206,0,0
+1607950513487,208,Detail Game Page,200,OK,Gemezz 1-18,text,true,,382,210,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/detail?idgame=242,208,0,0
+1607950513488,208,Winners List,200,OK,Gemezz 1-58,text,true,,382,209,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/winnersprizelist,208,0,0
+1607950513488,208,Winners List,200,OK,Gemezz 1-59,text,true,,382,209,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/winnersprizelist,208,0,0
+1607950513488,209,Winners List,200,OK,Gemezz 1-60,text,true,,382,209,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/winnersprizelist,209,0,0
+1607950513489,208,Winners List,200,OK,Gemezz 1-32,text,true,,382,209,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/winnersprizelist,208,0,0
+1607950513488,209,Winners List,200,OK,Gemezz 1-1,text,true,,382,209,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/winnersprizelist,209,0,0
+1607950513489,208,Winners List,200,OK,Gemezz 1-57,text,true,,382,209,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/winnersprizelist,208,0,0
+1607950513490,208,Winners List,200,OK,Gemezz 1-12,text,true,,382,209,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/winnersprizelist,208,0,0
+1607950513489,209,Winners List,200,OK,Gemezz 1-8,text,true,,382,209,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/winnersprizelist,209,0,0
+1607950513437,261,Home Page,200,OK,Gemezz 1-99,text,true,,512,144,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/home,261,0,49
+1607950513489,209,Winners List,200,OK,Gemezz 1-34,text,true,,382,209,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/winnersprizelist,209,0,0
+1607950513489,209,Winners List,200,OK,Gemezz 1-44,text,true,,382,209,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/winnersprizelist,209,0,0
+1607950513490,209,Schedule,200,OK,Gemezz 1-80,text,true,,382,212,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/competitionschedule,209,0,0
+1607950513419,280,Home Page,200,OK,Gemezz 1-97,text,true,,512,144,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/home,280,0,67
+1607950513490,209,Schedule,200,OK,Gemezz 1-81,text,true,,382,212,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/competitionschedule,209,0,0
+1607950513429,270,Home Page,200,OK,Gemezz 1-98,text,true,,512,144,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/home,270,0,57
+1607950513450,250,Home Page,200,OK,Gemezz 1-100,text,true,,512,144,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/home,250,0,36
+1607950513412,288,Home Page,200,OK,Gemezz 1-96,text,true,,512,144,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/home,288,0,75
+1607950513490,210,Winners List,200,OK,Gemezz 1-54,text,true,,382,209,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/winnersprizelist,210,0,0
+1607950513490,210,Winners List,200,OK,Gemezz 1-35,text,true,,382,209,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/winnersprizelist,210,0,0
+1607950513491,210,Winners List,200,OK,Gemezz 1-11,text,true,,382,209,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/winnersprizelist,210,0,0
+1607950513491,210,Schedule,200,OK,Gemezz 1-76,text,true,,382,212,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/competitionschedule,210,0,0
+1607950513520,181,Detail Game Page,200,OK,Gemezz 1-29,text,true,,382,210,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/detail?idgame=242,181,0,0
+1607950513520,181,Detail Game Page,200,OK,Gemezz 1-6,text,true,,382,210,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/detail?idgame=242,181,0,0
+1607950513520,182,Detail Game Page,200,OK,Gemezz 1-27,text,true,,382,210,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/detail?idgame=242,182,0,0
+1607950513521,181,Detail Game Page,200,OK,Gemezz 1-52,text,true,,382,210,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/detail?idgame=242,181,0,0
+1607950513521,181,Detail Game Page,200,OK,Gemezz 1-50,text,true,,382,210,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/detail?idgame=242,181,0,0
+1607950513522,180,Winners List,200,OK,Gemezz 1-63,text,true,,382,209,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/winnersprizelist,180,0,0
+1607950513522,180,Detail Game Page,200,OK,Gemezz 1-28,text,true,,382,210,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/detail?idgame=242,180,0,0
+1607950513522,181,Detail Game Page,200,OK,Gemezz 1-22,text,true,,382,210,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/detail?idgame=242,181,0,0
+1607950513522,181,Detail Game Page,200,OK,Gemezz 1-10,text,true,,382,210,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/detail?idgame=242,181,0,0
+1607950513523,180,Detail Game Page,200,OK,Gemezz 1-51,text,true,,382,210,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/detail?idgame=242,180,0,0
+1607950513635,79,Detail Game Page,200,OK,Gemezz 1-46,text,true,,382,210,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/detail?idgame=242,79,0,0
+1607950513632,82,Winners List,200,OK,Gemezz 1-66,text,true,,382,209,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/winnersprizelist,82,0,0
+1607950513632,82,Winners List,200,OK,Gemezz 1-67,text,true,,382,209,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/winnersprizelist,82,0,0
+1607950513632,82,Winners List,200,OK,Gemezz 1-69,text,true,,382,209,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/winnersprizelist,82,0,0
+1607950513639,76,Detail Game Page,200,OK,Gemezz 1-40,text,true,,382,210,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/detail?idgame=242,76,0,0
+1607950513636,79,Detail Game Page,200,OK,Gemezz 1-21,text,true,,382,210,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/detail?idgame=242,79,0,0
+1607950513633,82,Winners List,200,OK,Gemezz 1-65,text,true,,382,209,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/winnersprizelist,82,0,0
+1607950513637,78,Detail Game Page,200,OK,Gemezz 1-26,text,true,,382,210,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/detail?idgame=242,78,0,0
+1607950513637,79,Detail Game Page,200,OK,Gemezz 1-24,text,true,,382,210,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/detail?idgame=242,79,0,0
+1607950513639,77,Winners List,200,OK,Gemezz 1-70,text,true,,382,209,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/winnersprizelist,77,0,0
+1607950513635,81,Detail Game Page,200,OK,Gemezz 1-16,text,true,,382,210,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/detail?idgame=242,81,0,0
+1607950513638,79,Schedule,200,OK,Gemezz 1-85,text,true,,382,212,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/competitionschedule,79,0,0
+1607950513638,79,Detail Game Page,200,OK,Gemezz 1-42,text,true,,382,210,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/detail?idgame=242,79,0,0
+1607950513639,78,Detail Game Page,200,OK,Gemezz 1-41,text,true,,382,210,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/detail?idgame=242,78,0,0
+1607950513641,76,Detail Game Page,200,OK,Gemezz 1-38,text,true,,382,210,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/detail?idgame=242,76,0,0
+1607950513641,77,Detail Game Page,200,OK,Gemezz 1-48,text,true,,382,210,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/detail?idgame=242,77,0,0
+1607950513640,78,Winners List,200,OK,Gemezz 1-68,text,true,,382,209,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/winnersprizelist,78,0,0
+1607950513644,74,Detail Game Page,200,OK,Gemezz 1-33,text,true,,382,210,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/detail?idgame=242,74,0,0
+1607950513640,79,Detail Game Page,200,OK,Gemezz 1-9,text,true,,382,210,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/detail?idgame=242,79,0,0
+1607950513641,79,Detail Game Page,200,OK,Gemezz 1-15,text,true,,382,210,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/detail?idgame=242,79,0,0
+1607950513643,77,Detail Game Page,200,OK,Gemezz 1-3,text,true,,382,210,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/detail?idgame=242,77,0,0
+1607950513643,77,Detail Game Page,200,OK,Gemezz 1-14,text,true,,382,210,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/detail?idgame=242,77,0,0
+1607950513643,78,Detail Game Page,200,OK,Gemezz 1-17,text,true,,382,210,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/detail?idgame=242,78,0,0
+1607950513644,77,Detail Game Page,200,OK,Gemezz 1-53,text,true,,382,210,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/detail?idgame=242,77,0,0
+1607950513643,78,Schedule,200,OK,Gemezz 1-91,text,true,,382,212,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/competitionschedule,78,0,0
+1607950513644,77,Schedule,200,OK,Gemezz 1-89,text,true,,382,212,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/competitionschedule,77,0,0
+1607950513645,79,Schedule,200,OK,Gemezz 1-88,text,true,,382,212,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/competitionschedule,79,0,0
+1607950513645,184,Detail Game Page,200,OK,Gemezz 1-36,text,true,,382,210,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/detail?idgame=242,184,0,0
+1607950513644,185,Detail Game Page,200,OK,Gemezz 1-2,text,true,,382,210,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/detail?idgame=242,185,0,0
+1607950513645,186,Winners List,200,OK,Gemezz 1-72,text,true,,382,209,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/winnersprizelist,186,0,0
+1607950513646,186,Winners List,200,OK,Gemezz 1-73,text,true,,382,209,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/winnersprizelist,186,0,0
+1607950513645,187,Schedule,200,OK,Gemezz 1-90,text,true,,382,212,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/competitionschedule,187,0,0
+1607950513646,187,Winners List,200,OK,Gemezz 1-79,text,true,,382,209,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/winnersprizelist,187,0,0
+1607950513647,186,Schedule,200,OK,Gemezz 1-92,text,true,,382,212,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/competitionschedule,186,0,0
+1607950513645,189,Detail Game Page,200,OK,Gemezz 1-49,text,true,,382,210,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/detail?idgame=242,189,0,0
+1607950513645,190,Detail Game Page,200,OK,Gemezz 1-39,text,true,,382,210,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/detail?idgame=242,190,0,0
+1607950513647,188,Detail Game Page,200,OK,Gemezz 1-20,text,true,,382,210,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/detail?idgame=242,188,0,0
+1607950513647,188,Detail Game Page,200,OK,Gemezz 1-37,text,true,,382,210,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/detail?idgame=242,188,0,0
+1607950513647,189,Detail Game Page,200,OK,Gemezz 1-25,text,true,,382,210,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/detail?idgame=242,189,0,0
+1607950513648,189,Winners List,200,OK,Gemezz 1-75,text,true,,382,209,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/winnersprizelist,189,0,0
+1607950513640,197,Detail Game Page,200,OK,Gemezz 1-45,text,true,,382,210,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/detail?idgame=242,197,0,0
+1607950513648,189,Schedule,200,OK,Gemezz 1-93,text,true,,382,212,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/competitionschedule,189,0,0
+1607950513648,192,Winners List,200,OK,Gemezz 1-77,text,true,,382,209,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/winnersprizelist,192,0,0
+1607950513649,200,Detail Game Page,200,OK,Gemezz 1-13,text,true,,382,210,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/detail?idgame=242,200,0,0
+1607950513649,200,Winners List,200,OK,Gemezz 1-71,text,true,,382,209,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/winnersprizelist,200,0,0
+1607950513648,201,Winners List,200,OK,Gemezz 1-74,text,true,,382,209,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/winnersprizelist,201,0,0
+1607950513659,190,Winners List,200,OK,Gemezz 1-84,text,true,,382,209,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/winnersprizelist,190,0,0
+1607950513642,207,Schedule,200,OK,Gemezz 1-87,text,true,,382,212,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/competitionschedule,207,0,0
+1607950513649,201,Schedule,200,OK,Gemezz 1-86,text,true,,382,212,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/competitionschedule,201,0,0
+1607950513649,201,Schedule,200,OK,Gemezz 1-94,text,true,,382,212,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/competitionschedule,201,0,0
+1607950513688,279,Schedule,200,OK,Gemezz 1-95,text,true,,382,212,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/competitionschedule,279,0,0
+1607950513695,273,Detail Game Page,200,OK,Gemezz 1-55,text,true,,382,210,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/detail?idgame=242,273,0,0
+1607950513691,277,Detail Game Page,200,OK,Gemezz 1-5,text,true,,382,210,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/detail?idgame=242,277,0,0
+1607950513693,275,Detail Game Page,200,OK,Gemezz 1-61,text,true,,382,210,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/detail?idgame=242,275,0,0
+1607950513687,282,Detail Game Page,200,OK,Gemezz 1-4,text,true,,382,210,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/detail?idgame=242,282,0,0
+1607950513694,275,Detail Game Page,200,OK,Gemezz 1-62,text,true,,382,210,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/detail?idgame=242,275,0,0
+1607950513693,276,Detail Game Page,200,OK,Gemezz 1-64,text,true,,382,210,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/detail?idgame=242,276,0,0
+1607950513693,277,Winners List,200,OK,Gemezz 1-78,text,true,,382,209,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/winnersprizelist,277,0,0
+1607950513687,283,Winners List,200,OK,Gemezz 1-82,text,true,,382,209,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/winnersprizelist,283,0,0
+1607950513690,281,Winners List,200,OK,Gemezz 1-83,text,true,,382,209,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/winnersprizelist,281,0,0
+1607950513690,281,Detail Game Page,200,OK,Gemezz 1-47,text,true,,382,210,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/detail?idgame=242,281,0,0
+1607950513696,295,Detail Game Page,200,OK,Gemezz 1-59,text,true,,382,210,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/detail?idgame=242,295,0,0
+1607950513697,299,Detail Game Page,200,OK,Gemezz 1-60,text,true,,382,210,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/detail?idgame=242,299,0,0
+1607950513696,318,Detail Game Page,200,OK,Gemezz 1-56,text,true,,382,210,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/detail?idgame=242,318,0,0
+1607950513698,432,Detail Game Page,200,OK,Gemezz 1-1,text,true,,382,210,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/detail?idgame=242,432,0,0
+1607950513698,432,Detail Game Page,200,OK,Gemezz 1-57,text,true,,382,210,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/detail?idgame=242,432,0,0
+1607950513697,433,Detail Game Page,200,OK,Gemezz 1-32,text,true,,382,210,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/detail?idgame=242,433,0,0
+1607950513699,434,Detail Game Page,200,OK,Gemezz 1-12,text,true,,382,210,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/detail?idgame=242,434,0,0
+1607950513696,440,Detail Game Page,200,OK,Gemezz 1-58,text,true,,382,210,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/detail?idgame=242,440,0,0
+1607950513699,449,Detail Game Page,200,OK,Gemezz 1-44,text,true,,382,210,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/detail?idgame=242,449,0,0
+1607950513699,451,Detail Game Page,200,OK,Gemezz 1-34,text,true,,382,210,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/detail?idgame=242,451,0,0
+1607950513699,470,Winners List,200,OK,Gemezz 1-81,text,true,,382,209,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/winnersprizelist,470,0,0
+1607950513700,472,Schedule,200,OK,Gemezz 1-98,text,true,,382,212,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/competitionschedule,472,0,0
+1607950513700,472,Schedule,200,OK,Gemezz 1-96,text,true,,382,212,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/competitionschedule,472,0,0
+1607950513701,471,Detail Game Page,200,OK,Gemezz 1-35,text,true,,382,210,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/detail?idgame=242,471,0,0
+1607950513699,473,Schedule,200,OK,Gemezz 1-99,text,true,,382,212,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/competitionschedule,473,0,0
+1607950513701,471,Detail Game Page,200,OK,Gemezz 1-54,text,true,,382,210,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/detail?idgame=242,471,0,0
+1607950513699,474,Schedule,200,OK,Gemezz 1-97,text,true,,382,212,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/competitionschedule,474,0,0
+1607950513701,473,Winners List,200,OK,Gemezz 1-76,text,true,,382,209,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/winnersprizelist,473,0,0
+1607950513699,475,Winners List,200,OK,Gemezz 1-80,text,true,,382,209,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/winnersprizelist,475,0,0
+1607950513701,474,Detail Game Page,200,OK,Gemezz 1-11,text,true,,382,210,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/detail?idgame=242,474,0,0
+1607950513703,472,Detail Game Page,200,OK,Gemezz 1-63,text,true,,382,210,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/detail?idgame=242,472,0,0
+1607950513704,471,Schedule,200,OK,Gemezz 1-100,text,true,,382,212,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/competitionschedule,471,0,0
+1607950513715,460,Detail Game Page,200,OK,Gemezz 1-67,text,true,,382,210,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/detail?idgame=242,460,0,0
+1607950513716,459,Detail Game Page,200,OK,Gemezz 1-65,text,true,,382,210,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/detail?idgame=242,459,0,0
+1607950513704,472,Detail Game Page,200,OK,Gemezz 1-8,text,true,,382,210,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/detail?idgame=242,472,0,0
+1607950513724,452,Winners List,200,OK,Gemezz 1-88,text,true,,382,209,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/winnersprizelist,452,0,0
+1607950513717,460,Detail Game Page,200,OK,Gemezz 1-70,text,true,,382,210,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/detail?idgame=242,460,0,0
+1607950513722,455,Winners List,200,OK,Gemezz 1-91,text,true,,382,209,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/winnersprizelist,455,0,0
+1607950513715,462,Detail Game Page,200,OK,Gemezz 1-66,text,true,,382,210,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/detail?idgame=242,462,0,0
+1607950513715,463,Detail Game Page,200,OK,Gemezz 1-69,text,true,,382,210,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/detail?idgame=242,463,0,0
+1607950513717,461,Winners List,200,OK,Gemezz 1-85,text,true,,382,209,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/winnersprizelist,461,0,0
+1607950513722,456,Winners List,200,OK,Gemezz 1-89,text,true,,382,209,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/winnersprizelist,456,0,0
+1607950513687,491,Game Page,200,OK,Gemezz 1-19,text,true,,5107,219,100,100,http://ltc.la.gemezz.mobi/assets/game/1581948337/index.html?userid=23,191,0,0
+1607950513719,456,Detail Game Page,200,OK,Gemezz 1-68,text,true,,382,210,100,100,http://ltc.la.gemezz.mobi/index.php/mobile/detail?idgame=242,456,0,0
+1607950513691,487,Game Page,200,OK,Gemezz 1-7,text,true,,5107,219,100,100,http://ltc.la.gemezz.mobi/assets/game/1581948337/index.html?userid=23,255,0,0
+1607950513693,486,Game Page,200,OK,Gemezz 1-23,text,true,,5107,219,100,100,http://ltc.la.gemezz.mobi/assets/game/1581948337/index.html?userid=23,253,0,0
+1607950513696,483,Game Page,200,OK,Gemezz 1-18,text,true,,5107,219,100,100,http://ltc.la.gemezz.mobi/assets/game/1581948337/index.html?userid=23,275,0,0
+1607950513695,484,Game Page,200,OK,Gemezz 1-30,text,true,,5107,219,100,100,http://ltc.la.gemezz.mobi/assets/game/1581948337/index.html?userid=23,275,0,0
+1607950513694,485,Game Page,200,OK,Gemezz 1-43,text,true,,5107,219,100,100,http://ltc.la.gemezz.mobi/assets/game/1581948337/index.html?userid=23,276,0,0
+1607950513716,463,Game Page,200,OK,Gemezz 1-24,text,true,,5107,219,100,100,http://ltc.la.gemezz.mobi/assets/game/1581948337/index.html?userid=23,414,0,0
+1607950513701,479,Game Page,200,OK,Gemezz 1-29,text,true,,5107,219,100,100,http://ltc.la.gemezz.mobi/assets/game/1581948337/index.html?userid=23,266,0,0
+1607950513721,459,Game Page,200,OK,Gemezz 1-3,text,true,,5107,219,100,100,http://ltc.la.gemezz.mobi/assets/game/1581948337/index.html?userid=23,417,0,0
+1607950513702,482,Game Page,200,OK,Gemezz 1-6,text,true,,5107,219,96,96,http://ltc.la.gemezz.mobi/assets/game/1581948337/index.html?userid=23,269,0,0
+1607950513702,482,Game Page,200,OK,Gemezz 1-52,text,true,,5107,219,97,96,http://ltc.la.gemezz.mobi/assets/game/1581948337/index.html?userid=23,265,0,0
+1607950513721,463,Game Page,200,OK,Gemezz 1-14,text,true,,5107,219,97,96,http://ltc.la.gemezz.mobi/assets/game/1581948337/index.html?userid=23,429,0,0
+1607950513702,483,Game Page,200,OK,Gemezz 1-50,text,true,,5107,219,96,96,http://ltc.la.gemezz.mobi/assets/game/1581948337/index.html?userid=23,269,0,0
+1607950513718,468,Game Page,200,OK,Gemezz 1-41,text,true,,5107,219,92,92,http://ltc.la.gemezz.mobi/assets/game/1581948337/index.html?userid=23,414,0,0
+1607950513703,483,Game Page,200,OK,Gemezz 1-22,text,true,,5107,219,92,92,http://ltc.la.gemezz.mobi/assets/game/1581948337/index.html?userid=23,289,0,0
+1607950513705,484,Game Page,200,OK,Gemezz 1-27,text,true,,5107,219,86,86,http://ltc.la.gemezz.mobi/assets/game/1581948337/index.html?userid=23,293,0,0
+1607950513703,486,Game Page,200,OK,Gemezz 1-31,text,true,,5107,219,86,86,http://ltc.la.gemezz.mobi/assets/game/1581948337/index.html?userid=23,423,0,0
+1607950513715,474,Game Page,200,OK,Gemezz 1-40,text,true,,5107,219,86,86,http://ltc.la.gemezz.mobi/assets/game/1581948337/index.html?userid=23,294,0,0
+1607950513715,474,Game Page,200,OK,Gemezz 1-46,text,true,,5107,219,86,86,http://ltc.la.gemezz.mobi/assets/game/1581948337/index.html?userid=23,413,0,0
+1607950513703,486,Game Page,200,OK,Gemezz 1-28,text,true,,5107,219,86,86,http://ltc.la.gemezz.mobi/assets/game/1581948337/index.html?userid=23,423,0,0
+1607950513703,486,Game Page,200,OK,Gemezz 1-10,text,true,,5107,219,85,85,http://ltc.la.gemezz.mobi/assets/game/1581948337/index.html?userid=23,312,0,0
+1607950513703,487,Game Page,200,OK,Gemezz 1-51,text,true,,5107,219,83,83,http://ltc.la.gemezz.mobi/assets/game/1581948337/index.html?userid=23,425,0,0
+1607950513716,476,Game Page,200,OK,Gemezz 1-26,text,true,,5107,219,78,78,http://ltc.la.gemezz.mobi/assets/game/1581948337/index.html?userid=23,415,0,0
+1607950513717,475,Game Page,200,OK,Gemezz 1-42,text,true,,5107,219,78,78,http://ltc.la.gemezz.mobi/assets/game/1581948337/index.html?userid=23,417,0,0
+1607950513717,475,Game Page,200,OK,Gemezz 1-16,text,true,,5107,219,78,78,http://ltc.la.gemezz.mobi/assets/game/1581948337/index.html?userid=23,417,0,0
+1607950513716,474,Game Page,200,OK,Gemezz 1-21,text,true,,5107,219,78,78,http://ltc.la.gemezz.mobi/assets/game/1581948337/index.html?userid=23,417,0,0
+1607950513719,471,Game Page,200,OK,Gemezz 1-33,text,true,,5107,219,78,78,http://ltc.la.gemezz.mobi/assets/game/1581948337/index.html?userid=23,412,0,0
+1607950513718,474,Game Page,200,OK,Gemezz 1-48,text,true,,5107,219,78,78,http://ltc.la.gemezz.mobi/assets/game/1581948337/index.html?userid=23,415,0,0
+1607950513721,472,Game Page,200,OK,Gemezz 1-17,text,true,,5107,219,72,72,http://ltc.la.gemezz.mobi/assets/game/1581948337/index.html?userid=23,416,0,0
+1607950513721,473,Game Page,200,OK,Gemezz 1-15,text,true,,5107,219,72,72,http://ltc.la.gemezz.mobi/assets/game/1581948337/index.html?userid=23,415,0,0
+1607950513718,476,Game Page,200,OK,Gemezz 1-38,text,true,,5107,219,72,72,http://ltc.la.gemezz.mobi/assets/game/1581948337/index.html?userid=23,418,0,0
+1607950513719,476,Game Page,200,OK,Gemezz 1-9,text,true,,5107,219,69,69,http://ltc.la.gemezz.mobi/assets/game/1581948337/index.html?userid=23,430,0,0
+1607950513722,474,Game Page,200,OK,Gemezz 1-53,text,true,,5107,219,68,68,http://ltc.la.gemezz.mobi/assets/game/1581948337/index.html?userid=23,432,0,0
+1607950513830,395,Game Page,200,OK,Gemezz 1-36,text,true,,5107,219,67,67,http://ltc.la.gemezz.mobi/assets/game/1581948337/index.html?userid=23,367,0,0
+1607950513830,397,Game Page,200,OK,Gemezz 1-2,text,true,,5107,219,66,66,http://ltc.la.gemezz.mobi/assets/game/1581948337/index.html?userid=23,383,0,0
+1607950513836,391,Game Page,200,OK,Gemezz 1-39,text,true,,5107,219,66,66,http://ltc.la.gemezz.mobi/assets/game/1581948337/index.html?userid=23,380,0,0
+1607950513834,393,Game Page,200,OK,Gemezz 1-49,text,true,,5107,219,66,66,http://ltc.la.gemezz.mobi/assets/game/1581948337/index.html?userid=23,371,0,0
+1607950513836,391,Game Page,200,OK,Gemezz 1-20,text,true,,5107,219,66,66,http://ltc.la.gemezz.mobi/assets/game/1581948337/index.html?userid=23,371,0,0
+1607950513837,392,Game Page,200,OK,Gemezz 1-45,text,true,,5107,219,62,62,http://ltc.la.gemezz.mobi/assets/game/1581948337/index.html?userid=23,386,0,0
+1607950513836,394,Game Page,200,OK,Gemezz 1-37,text,true,,5107,219,62,62,http://ltc.la.gemezz.mobi/assets/game/1581948337/index.html?userid=23,382,0,0
+1607950513850,380,Game Page,200,OK,Gemezz 1-13,text,true,,5107,219,61,61,http://ltc.la.gemezz.mobi/assets/game/1581948337/index.html?userid=23,375,0,0
+1607950513833,398,Detail Game Page,200,OK,Gemezz 1-73,text,true,,382,210,59,59,http://ltc.la.gemezz.mobi/index.php/mobile/detail?idgame=242,398,0,0
+1607950513832,399,Detail Game Page,200,OK,Gemezz 1-72,text,true,,382,210,59,59,http://ltc.la.gemezz.mobi/index.php/mobile/detail?idgame=242,399,0,0
+1607950513834,398,Detail Game Page,200,OK,Gemezz 1-79,text,true,,382,210,59,59,http://ltc.la.gemezz.mobi/index.php/mobile/detail?idgame=242,398,0,0
+1607950513834,398,Winners List,200,OK,Gemezz 1-92,text,true,,382,209,59,59,http://ltc.la.gemezz.mobi/index.php/mobile/winnersprizelist,398,0,0
+1607950513837,395,Detail Game Page,200,OK,Gemezz 1-75,text,true,,382,210,59,59,http://ltc.la.gemezz.mobi/index.php/mobile/detail?idgame=242,395,0,0
+1607950513833,399,Winners List,200,OK,Gemezz 1-90,text,true,,382,209,59,59,http://ltc.la.gemezz.mobi/index.php/mobile/winnersprizelist,399,0,0
+1607950513851,390,Winners List,200,OK,Gemezz 1-94,text,true,,382,209,59,59,http://ltc.la.gemezz.mobi/index.php/mobile/winnersprizelist,390,0,0
+1607950513850,391,Winners List,200,OK,Gemezz 1-87,text,true,,382,209,59,59,http://ltc.la.gemezz.mobi/index.php/mobile/winnersprizelist,391,0,0
+1607950513841,400,Detail Game Page,200,OK,Gemezz 1-77,text,true,,382,210,59,59,http://ltc.la.gemezz.mobi/index.php/mobile/detail?idgame=242,400,0,0
+1607950513838,403,Winners List,200,OK,Gemezz 1-93,text,true,,382,209,59,59,http://ltc.la.gemezz.mobi/index.php/mobile/winnersprizelist,403,0,0
+1607950513851,391,Winners List,200,OK,Gemezz 1-86,text,true,,382,209,59,59,http://ltc.la.gemezz.mobi/index.php/mobile/winnersprizelist,391,0,0
+1607950513850,393,Detail Game Page,200,OK,Gemezz 1-74,text,true,,382,210,59,59,http://ltc.la.gemezz.mobi/index.php/mobile/detail?idgame=242,392,0,0
+1607950513850,392,Detail Game Page,200,OK,Gemezz 1-71,text,true,,382,210,59,59,http://ltc.la.gemezz.mobi/index.php/mobile/detail?idgame=242,392,0,0
+1607950513850,392,Detail Game Page,200,OK,Gemezz 1-84,text,true,,382,210,59,59,http://ltc.la.gemezz.mobi/index.php/mobile/detail?idgame=242,392,0,0
+1607950513970,294,Game Page,200,OK,Gemezz 1-4,text,true,,5107,219,59,59,http://ltc.la.gemezz.mobi/assets/game/1581948337/index.html?userid=23,274,0,0
+1607950513968,297,Game Page,200,OK,Gemezz 1-5,text,true,,5107,219,59,59,http://ltc.la.gemezz.mobi/assets/game/1581948337/index.html?userid=23,277,0,0
+1607950513972,294,Detail Game Page,200,OK,Gemezz 1-83,text,true,,382,210,59,59,http://ltc.la.gemezz.mobi/index.php/mobile/detail?idgame=242,294,0,0
+1607950513971,296,Detail Game Page,200,OK,Gemezz 1-78,text,true,,382,210,57,57,http://ltc.la.gemezz.mobi/index.php/mobile/detail?idgame=242,296,0,0
+1607950513972,295,Game Page,200,OK,Gemezz 1-47,text,true,,5107,219,57,57,http://ltc.la.gemezz.mobi/assets/game/1581948337/index.html?userid=23,292,0,0
+1607950513968,300,Winners List,200,OK,Gemezz 1-95,text,true,,382,209,57,57,http://ltc.la.gemezz.mobi/index.php/mobile/winnersprizelist,300,0,0
+1607950513972,297,Detail Game Page,200,OK,Gemezz 1-82,text,true,,382,210,56,56,http://ltc.la.gemezz.mobi/index.php/mobile/detail?idgame=242,297,0,0
+1607950514131,151,Game Page,200,OK,Gemezz 1-32,text,true,,5107,219,56,56,http://ltc.la.gemezz.mobi/assets/game/1581948337/index.html?userid=23,149,0,0
+1607950514135,160,Game Page,200,OK,Gemezz 1-12,text,true,,5107,219,55,55,http://ltc.la.gemezz.mobi/assets/game/1581948337/index.html?userid=23,150,0,0
+1607950514151,145,Game Page,200,OK,Gemezz 1-34,text,true,,5107,219,54,54,http://ltc.la.gemezz.mobi/assets/game/1581948337/index.html?userid=23,140,0,0
+1607950514170,127,Detail Game Page,200,OK,Gemezz 1-81,text,true,,382,210,54,54,http://ltc.la.gemezz.mobi/index.php/mobile/detail?idgame=242,127,0,0
+1607950514172,125,Winners List,200,OK,Gemezz 1-99,text,true,,382,209,54,54,http://ltc.la.gemezz.mobi/index.php/mobile/winnersprizelist,125,0,0
+1607950513837,479,Game Page,200,OK,Gemezz 1-25,text,true,,5107,219,53,53,http://ltc.la.gemezz.mobi/assets/game/1581948337/index.html?userid=23,371,0,0
+1607950514173,164,Game Page,200,OK,Gemezz 1-35,text,true,,5107,219,52,52,http://ltc.la.gemezz.mobi/assets/game/1581948337/index.html?userid=23,127,0,0
+1607950514174,164,Detail Game Page,200,OK,Gemezz 1-80,text,true,,382,210,52,52,http://ltc.la.gemezz.mobi/index.php/mobile/detail?idgame=242,164,0,0
+1607950514175,164,Game Page,200,OK,Gemezz 1-11,text,true,,5107,219,51,51,http://ltc.la.gemezz.mobi/assets/game/1581948337/index.html?userid=23,142,0,0
+1607950514174,166,Winners List,200,OK,Gemezz 1-97,text,true,,382,209,51,51,http://ltc.la.gemezz.mobi/index.php/mobile/winnersprizelist,166,0,0
+1607950514173,169,Winners List,200,OK,Gemezz 1-98,text,true,,382,209,50,50,http://ltc.la.gemezz.mobi/index.php/mobile/winnersprizelist,169,0,0
+1607950514177,167,Detail Game Page,200,OK,Gemezz 1-88,text,true,,382,210,50,50,http://ltc.la.gemezz.mobi/index.php/mobile/detail?idgame=242,167,0,0
+1607950514174,170,Detail Game Page,200,OK,Gemezz 1-76,text,true,,382,210,50,50,http://ltc.la.gemezz.mobi/index.php/mobile/detail?idgame=242,170,0,0
+1607950514172,172,Winners List,200,OK,Gemezz 1-96,text,true,,382,209,50,50,http://ltc.la.gemezz.mobi/index.php/mobile/winnersprizelist,172,0,0
+1607950514177,170,Detail Game Page,200,OK,Gemezz 1-91,text,true,,382,210,50,50,http://ltc.la.gemezz.mobi/index.php/mobile/detail?idgame=242,170,0,0
+1607950514178,170,Detail Game Page,200,OK,Gemezz 1-85,text,true,,382,210,50,50,http://ltc.la.gemezz.mobi/index.php/mobile/detail?idgame=242,170,0,0
+1607950514178,170,Detail Game Page,200,OK,Gemezz 1-89,text,true,,382,210,50,50,http://ltc.la.gemezz.mobi/index.php/mobile/detail?idgame=242,170,0,0
+1607950514176,173,Winners List,200,OK,Gemezz 1-100,text,true,,382,209,50,50,http://ltc.la.gemezz.mobi/index.php/mobile/winnersprizelist,173,0,0
+1607950513969,386,Game Page,200,OK,Gemezz 1-55,text,true,,5107,219,50,50,http://ltc.la.gemezz.mobi/assets/game/1581948337/index.html?userid=23,275,0,0
+1607950513969,387,Game Page,200,OK,Gemezz 1-61,text,true,,5107,219,50,50,http://ltc.la.gemezz.mobi/assets/game/1581948337/index.html?userid=23,275,0,0
+1607950513970,386,Game Page,200,OK,Gemezz 1-64,text,true,,5107,219,50,50,http://ltc.la.gemezz.mobi/assets/game/1581948337/index.html?userid=23,278,0,0
+1607950513970,386,Game Page,200,OK,Gemezz 1-62,text,true,,5107,219,50,50,http://ltc.la.gemezz.mobi/assets/game/1581948337/index.html?userid=23,275,0,0
+1607950513996,374,Game Page,200,OK,Gemezz 1-60,text,true,,5107,219,46,46,http://ltc.la.gemezz.mobi/assets/game/1581948337/index.html?userid=23,273,0,0
+1607950513992,380,Game Page,200,OK,Gemezz 1-59,text,true,,5107,219,45,45,http://ltc.la.gemezz.mobi/assets/game/1581948337/index.html?userid=23,278,0,0
+1607950514131,253,Game Page,200,OK,Gemezz 1-57,text,true,,5107,219,44,44,http://ltc.la.gemezz.mobi/assets/game/1581948337/index.html?userid=23,146,0,0
+1607950514015,369,Game Page,200,OK,Gemezz 1-56,text,true,,5107,219,44,44,http://ltc.la.gemezz.mobi/assets/game/1581948337/index.html?userid=23,260,0,0
+1607950514132,252,Game Page,200,OK,Gemezz 1-1,text,true,,5107,219,44,44,http://ltc.la.gemezz.mobi/assets/game/1581948337/index.html?userid=23,150,0,0
+1607950514241,145,Detail Game Page,200,OK,Gemezz 1-87,text,true,,382,210,42,42,http://ltc.la.gemezz.mobi/index.php/mobile/detail?idgame=242,145,0,0
+1607950514232,154,Detail Game Page,200,OK,Gemezz 1-90,text,true,,382,210,41,41,http://ltc.la.gemezz.mobi/index.php/mobile/detail?idgame=242,154,0,0
+1607950514241,145,Detail Game Page,200,OK,Gemezz 1-94,text,true,,382,210,41,41,http://ltc.la.gemezz.mobi/index.php/mobile/detail?idgame=242,145,0,0
+1607950514232,154,Detail Game Page,200,OK,Gemezz 1-92,text,true,,382,210,41,41,http://ltc.la.gemezz.mobi/index.php/mobile/detail?idgame=242,154,0,0
+1607950514242,145,Detail Game Page,200,OK,Gemezz 1-93,text,true,,382,210,41,41,http://ltc.la.gemezz.mobi/index.php/mobile/detail?idgame=242,145,0,0
+1607950514243,159,Detail Game Page,200,OK,Gemezz 1-86,text,true,,382,210,41,41,http://ltc.la.gemezz.mobi/index.php/mobile/detail?idgame=242,159,0,0
+1607950514137,272,Game Page,200,OK,Gemezz 1-58,text,true,,5107,219,41,41,http://ltc.la.gemezz.mobi/assets/game/1581948337/index.html?userid=23,152,0,0
+1607950514268,141,Detail Game Page,200,OK,Gemezz 1-95,text,true,,382,210,41,41,http://ltc.la.gemezz.mobi/index.php/mobile/detail?idgame=242,141,0,0
+1607950514149,260,Game Page,200,OK,Gemezz 1-44,text,true,,5107,219,41,41,http://ltc.la.gemezz.mobi/assets/game/1581948337/index.html?userid=23,140,0,0
+1607950514174,236,Game Page,200,OK,Gemezz 1-54,text,true,,5107,219,41,41,http://ltc.la.gemezz.mobi/assets/game/1581948337/index.html?userid=23,140,0,0
+1607950514176,234,Game Page,200,OK,Gemezz 1-65,text,true,,5107,219,41,41,http://ltc.la.gemezz.mobi/assets/game/1581948337/index.html?userid=23,146,0,0
+1607950514177,235,Game Page,200,OK,Gemezz 1-67,text,true,,5107,219,37,37,http://ltc.la.gemezz.mobi/assets/game/1581948337/index.html?userid=23,147,0,0
+1607950514177,235,Game Page,200,OK,Gemezz 1-70,text,true,,5107,219,37,37,http://ltc.la.gemezz.mobi/assets/game/1581948337/index.html?userid=23,155,0,0
+1607950514177,235,Game Page,200,OK,Gemezz 1-8,text,true,,5107,219,37,37,http://ltc.la.gemezz.mobi/assets/game/1581948337/index.html?userid=23,153,0,0
+1607950514178,236,Game Page,200,OK,Gemezz 1-69,text,true,,5107,219,34,34,http://ltc.la.gemezz.mobi/assets/game/1581948337/index.html?userid=23,155,0,0
+1607950514298,123,Detail Game Page,200,OK,Gemezz 1-99,text,true,,382,210,33,33,http://ltc.la.gemezz.mobi/index.php/mobile/detail?idgame=242,123,0,0
+1607950514178,243,Game Page,200,OK,Gemezz 1-66,text,true,,5107,219,33,33,http://ltc.la.gemezz.mobi/assets/game/1581948337/index.html?userid=23,158,0,0
+1607950514179,243,Game Page,200,OK,Gemezz 1-68,text,true,,5107,219,32,32,http://ltc.la.gemezz.mobi/assets/game/1581948337/index.html?userid=23,162,0,0
+1607950514178,244,Game Page,200,OK,Gemezz 1-63,text,true,,5107,219,32,32,http://ltc.la.gemezz.mobi/assets/game/1581948337/index.html?userid=23,165,0,0
+1607950514231,198,Game Page,200,OK,Gemezz 1-73,text,true,,5107,219,30,30,http://ltc.la.gemezz.mobi/assets/game/1581948337/index.html?userid=23,120,0,0
+1607950514231,200,Game Page,200,OK,Gemezz 1-72,text,true,,5107,219,29,29,http://ltc.la.gemezz.mobi/assets/game/1581948337/index.html?userid=23,130,0,0
+1607950514233,198,Game Page,200,OK,Gemezz 1-75,text,true,,5107,219,29,29,http://ltc.la.gemezz.mobi/assets/game/1581948337/index.html?userid=23,138,0,0
+1607950514233,198,Game Page,200,OK,Gemezz 1-79,text,true,,5107,219,29,29,http://ltc.la.gemezz.mobi/assets/game/1581948337/index.html?userid=23,132,0,0
+1607950514241,191,Game Page,200,OK,Gemezz 1-77,text,true,,5107,219,29,29,http://ltc.la.gemezz.mobi/assets/game/1581948337/index.html?userid=23,140,0,0
+1607950514243,189,Game Page,200,OK,Gemezz 1-84,text,true,,5107,219,25,25,http://ltc.la.gemezz.mobi/assets/game/1581948337/index.html?userid=23,145,0,0
+1607950514243,190,Game Page,200,OK,Gemezz 1-74,text,true,,5107,219,25,25,http://ltc.la.gemezz.mobi/assets/game/1581948337/index.html?userid=23,146,0,0
+1607950514343,102,Detail Game Page,200,OK,Gemezz 1-98,text,true,,382,210,23,23,http://ltc.la.gemezz.mobi/index.php/mobile/detail?idgame=242,102,0,0
+1607950514341,108,Detail Game Page,200,OK,Gemezz 1-97,text,true,,382,210,23,23,http://ltc.la.gemezz.mobi/index.php/mobile/detail?idgame=242,108,0,0
+1607950514346,104,Detail Game Page,200,OK,Gemezz 1-96,text,true,,382,210,23,23,http://ltc.la.gemezz.mobi/index.php/mobile/detail?idgame=242,104,0,0
+1607950514243,207,Game Page,200,OK,Gemezz 1-71,text,true,,5107,219,23,23,http://ltc.la.gemezz.mobi/assets/game/1581948337/index.html?userid=23,149,0,0
+1607950514349,101,Detail Game Page,200,OK,Gemezz 1-100,text,true,,382,210,23,23,http://ltc.la.gemezz.mobi/index.php/mobile/detail?idgame=242,101,0,0
+1607950514268,204,Game Page,200,OK,Gemezz 1-78,text,true,,5107,219,22,22,http://ltc.la.gemezz.mobi/assets/game/1581948337/index.html?userid=23,135,0,0
+1607950514270,203,Game Page,200,OK,Gemezz 1-82,text,true,,5107,219,22,22,http://ltc.la.gemezz.mobi/assets/game/1581948337/index.html?userid=23,134,0,0
+1607950514267,206,Game Page,200,OK,Gemezz 1-83,text,true,,5107,219,22,22,http://ltc.la.gemezz.mobi/assets/game/1581948337/index.html?userid=23,140,0,0
+1607950514298,176,Game Page,200,OK,Gemezz 1-81,text,true,,5107,219,19,19,http://ltc.la.gemezz.mobi/assets/game/1581948337/index.html?userid=23,116,0,0
+1607950514338,138,Game Page,200,OK,Gemezz 1-80,text,true,,5107,219,18,18,http://ltc.la.gemezz.mobi/assets/game/1581948337/index.html?userid=23,86,0,0
+1607950514345,131,Game Page,200,OK,Gemezz 1-88,text,true,,5107,219,18,18,http://ltc.la.gemezz.mobi/assets/game/1581948337/index.html?userid=23,88,0,0
+1607950514345,131,Game Page,200,OK,Gemezz 1-76,text,true,,5107,219,18,18,http://ltc.la.gemezz.mobi/assets/game/1581948337/index.html?userid=23,92,0,0
+1607950514347,130,Game Page,200,OK,Gemezz 1-91,text,true,,5107,219,15,15,http://ltc.la.gemezz.mobi/assets/game/1581948337/index.html?userid=23,95,0,0
+1607950514348,149,Game Page,200,OK,Gemezz 1-85,text,true,,5107,219,14,14,http://ltc.la.gemezz.mobi/assets/game/1581948337/index.html?userid=23,97,0,0
+1607950514348,150,Game Page,200,OK,Gemezz 1-89,text,true,,5107,219,13,13,http://ltc.la.gemezz.mobi/assets/game/1581948337/index.html?userid=23,99,0,0
+1607950514386,126,Game Page,200,OK,Gemezz 1-92,text,true,,5107,219,12,12,http://ltc.la.gemezz.mobi/assets/game/1581948337/index.html?userid=23,65,0,0
+1607950514386,127,Game Page,200,OK,Gemezz 1-87,text,true,,5107,219,12,12,http://ltc.la.gemezz.mobi/assets/game/1581948337/index.html?userid=23,68,0,0
+1607950514387,126,Game Page,200,OK,Gemezz 1-90,text,true,,5107,219,12,12,http://ltc.la.gemezz.mobi/assets/game/1581948337/index.html?userid=23,71,0,0
+1607950514387,127,Game Page,200,OK,Gemezz 1-93,text,true,,5107,219,11,11,http://ltc.la.gemezz.mobi/assets/game/1581948337/index.html?userid=23,73,0,0
+1607950514402,113,Game Page,200,OK,Gemezz 1-86,text,true,,5107,219,8,8,http://ltc.la.gemezz.mobi/assets/game/1581948337/index.html?userid=23,68,0,0
+1607950514386,129,Game Page,200,OK,Gemezz 1-94,text,true,,5107,219,8,8,http://ltc.la.gemezz.mobi/assets/game/1581948337/index.html?userid=23,76,0,0
+1607950514410,118,Game Page,200,OK,Gemezz 1-95,text,true,,5107,219,6,6,http://ltc.la.gemezz.mobi/assets/game/1581948337/index.html?userid=23,70,0,0
+1607950514421,113,Game Page,200,OK,Gemezz 1-99,text,true,,5107,219,5,5,http://ltc.la.gemezz.mobi/assets/game/1581948337/index.html?userid=23,78,0,0
+1607950514446,94,Game Page,200,OK,Gemezz 1-98,text,true,,5107,219,4,4,http://ltc.la.gemezz.mobi/assets/game/1581948337/index.html?userid=23,64,0,0
+1607950514450,91,Game Page,200,OK,Gemezz 1-97,text,true,,5107,219,3,3,http://ltc.la.gemezz.mobi/assets/game/1581948337/index.html?userid=23,69,0,0
+1607950514450,93,Game Page,200,OK,Gemezz 1-100,text,true,,5107,219,2,2,http://ltc.la.gemezz.mobi/assets/game/1581948337/index.html?userid=23,72,0,0
+1607950514450,93,Game Page,200,OK,Gemezz 1-96,text,true,,5107,219,2,2,http://ltc.la.gemezz.mobi/assets/game/1581948337/index.html?userid=23,75,0,0
